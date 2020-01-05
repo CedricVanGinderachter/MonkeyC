@@ -1,0 +1,16 @@
+<strings>
+
+    <string id="AppName">digitf</string>
+
+    <string id="BackgroundColorTitle">Achtergrondkleur</string>
+    <string id="ForegroundColorTitle">Accentkleur</string>
+    <string id="MilitaryFormatTitle">Militair formaat voor 24 uur</string>
+
+    <string id="ColorBlack">Zwart</string>
+    <string id="ColorDarkGray">Donker Grijs</string>
+    <string id="ColorLightGray">Licht Grijs</string>
+    <string id="ColorWhite">Wit</string>
+    <string id="ColorBlue">Blauw</string>
+    <string id="ColorRed">Rood</string>
+
+</strings>

@@ -1,0 +1,18 @@
+<layout id="WatchFace">
+    <drawable 
+    	class="Background" />
+    <label 
+    	id="TimeLabel" 
+    	x="123" 
+    	y="66" 
+    	font="Graphics.FONT_LARGE" 
+    	justification="Graphics.TEXT_JUSTIFY_CENTER" 
+    	color="Graphics.COLOR_WHITE" />
+   	<label 
+    	id="DateLabel" 
+    	x="200" 
+    	y="160" 
+    	font="Graphics.FONT_LARGE" 
+    	justification="Graphics.TEXT_JUSTIFY_RIGHT" 
+    	color="Graphics.COLOR_WHITE" />
+</layout>

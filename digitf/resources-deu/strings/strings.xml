@@ -1,0 +1,16 @@
+<strings>
+
+    <string id="AppName">digitf</string>
+
+    <string id="BackgroundColorTitle">hintergrundfarbe</string>
+    <string id="ForegroundColorTitle">vordergrundfarbe</string>
+    <string id="MilitaryFormatTitle">militärisches Format</string>
+
+    <string id="ColorBlack">schwarz</string>
+    <string id="ColorDarkGray">dunkelgrau</string>
+    <string id="ColorLightGray">hellgrau</string>
+    <string id="ColorWhite">weiss</string>
+    <string id="ColorBlue">blau</string>
+    <string id="ColorRed">rot</string>
+	
+</strings>

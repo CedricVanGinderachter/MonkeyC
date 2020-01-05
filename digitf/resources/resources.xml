@@ -1,0 +1,12 @@
+<resources>
+    <fonts>
+        <font 
+        	id="id_7font" 
+        	filename="fonts/7font.fnt" 
+        	filter="0123456789:" />
+        <font 
+        	id="id_7font_small" 
+        	filename="fonts/7font_28.fnt" 
+        	filter="adefhijlmnorstuvwzADEFHIJLMNORSTUVWZ0123456789 " />
+    </fonts>
+</resources>
